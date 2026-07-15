@@ -1,5 +1,7 @@
 # 📊 MRR & User Analytics Dashboard
 
+![Dashboard Preview](images/preview.png)
+
 SQL + Tableau project for analyzing subscription revenue, user retention, churn, and business growth.
 
 ---
